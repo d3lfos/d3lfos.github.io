@@ -1,0 +1,17 @@
+title: D3LF
+description: We build conscious trading swarms for prediction markets
+url: "https://d3lfos.github.io"
+baseurl: ""
+
+# Custom layout + css/site.css — do not pull minima's SCSS.
+theme: null
+
+markdown: kramdown
+plugins: []
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .ruby-version
